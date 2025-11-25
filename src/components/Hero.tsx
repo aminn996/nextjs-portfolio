@@ -6,7 +6,7 @@ export default function Hero() {
       <div className="relative w-64 h-64 mx-auto">
         <Image
           src="/images/profile.jpg"
-          alt="Acef Laatiri"
+          alt="muhammad"
           width={256}
           height={256}
           className="rounded-full object-cover"
